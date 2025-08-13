@@ -27,11 +27,10 @@ npm run dev
 
 Demo screenshot:
 
-Light mode:
+(./img/)
+(./img/Screenshot_20250311_134256.png)
+(./img/Screenshot_20250311_134256.png)
+(./img/Screenshot_20250311_134256.png)
+(./img/Screenshot_20250311_134256.png)
 
-![lighmode](./img/Screenshot_20250311_134256.png)
-
-dark mode:
-
-![darkmode](./img/darkScreenshot_20250311_134404.png)
 
