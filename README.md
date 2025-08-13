@@ -14,23 +14,25 @@ npm install . --legacy-peer-deps
 npm run dev
 ```
 
-## before you begin, make sure you have this setup
 
-1. create `jobportal` db/document
-2. create `sequence` collection/table
-3. click on `add data` -> import from json or csv file (similar to this)
-```
+## Before you begin, make sure you have this setup
+
+1. Create `jobportal` db/document
+2. Create `sequence` collection/table
+3. Click on `Add Data` → Import from JSON or CSV file (similar to this)
+
+---
 
 **Please Note:**
 
-> I have not implemented JWT because, its outdated and its creating me too much bugs
+> I have not implemented JWT because it’s outdated and causing too many bugs.
 
-Demo screenshot:
+---
 
-(./img/Screenshot%202025-08-13%20175710.png)
-(./img/Screenshot%202025-08-13%20175726.png)
-(./img/Screenshot%202025-08-13%20175740.png)
-(./img/Screenshot%202025-08-13%20175756.png)
-(./img/Screenshot%202025-08-13%20175816.png)
+## Demo Screenshots:
 
-
+![Screenshot 1](./img/Screenshot%202025-08-13%20175710.png)
+![Screenshot 2](./img/Screenshot%202025-08-13%20175726.png)
+![Screenshot 3](./img/Screenshot%202025-08-13%20175740.png)
+![Screenshot 4](./img/Screenshot%202025-08-13%20175756.png)
+![Screenshot 5](./img/Screenshot%202025-08-13%20175816.png)
