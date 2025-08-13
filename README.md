@@ -27,15 +27,10 @@ npm run dev
 
 Demo screenshot:
 
-
-![darkmode](./img/Screenshot%202025-08-13%20175710.png)
-
-![darkmode](./img/Screenshot%202025-08-13%20175726.png)
-
-![darkmode](./img/Screenshot%202025-08-13%20175740.png)
-
-![darkmode](./img/Screenshot%202025-08-13%20175756.png)
-
-![darkmode](./img/Screenshot%202025-08-13%20175816.png)
+(./img/Screenshot%202025-08-13%20175710.png)
+(./img/Screenshot%202025-08-13%20175726.png)
+(./img/Screenshot%202025-08-13%20175740.png)
+(./img/Screenshot%202025-08-13%20175756.png)
+(./img/Screenshot%202025-08-13%20175816.png)
 
 
