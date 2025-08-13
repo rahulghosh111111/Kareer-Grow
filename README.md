@@ -34,20 +34,24 @@ npm run start
 
 **Landing page:**
 
-![Screenshot 1](./img/Screenshot%202025-08-13%20175710.png)
+![Screenshot 1](./img/Screenshot%202025-08-13%20201822.png)
 
 **Category of jobs:**
 
-![Screenshot 2](./img/Screenshot%202025-08-13%20175726.png)
+![Screenshot 2](./img/Screenshot%202025-08-13%20201842.png)
 
 **Post the Jobs as a Recruiter:**
 
-![Screenshot 3](./img/Screenshot%202025-08-13%20175740.png)
+![Screenshot 3](./img/Screenshot%202025-08-13%20201913.png)
 
 **Find the talents:**
 
-![Screenshot 4](./img/Screenshot%202025-08-13%20175756.png)
+![Screenshot 4](./img/Screenshot%202025-08-13%20201930.png)
 
 **Overview of Submission your Requirements :**
 
-![Screenshot 5](./img/Screenshot%202025-08-13%20175816.png)
+![Screenshot 5](./img/Screenshot%202025-08-13%20201942.png)
+
+**Signup:**
+
+![Screenshot 5](./img/Screenshot%202025-08-13%20202006.png)
