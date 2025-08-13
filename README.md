@@ -47,10 +47,14 @@ npm run dev
 
 Demo screenshot:
 
-Light mode:
-
-![lighmode](./img/Screenshot_20250311_134256.png)
-
 dark mode:
 
-![darkmode](./img/darkScreenshot_20250311_134404.png)
+![darkmode](./img/Screenshot%202025-08-13%20175710.png)
+
+![darkmode](./img/Screenshot%202025-08-13%20175726.png)
+
+![darkmode](./img/Screenshot%202025-08-13%20175740.png)
+
+![darkmode](./img/Screenshot%202025-08-13%20175756.png)
+
+![darkmode](./img/Screenshot%202025-08-13%20175816.png)
