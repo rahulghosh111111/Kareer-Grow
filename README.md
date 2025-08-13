@@ -3,11 +3,11 @@
 > Please Note:
 > 
 > The following folders contain the backend and frontend projects, respectively:
-> - Job-Portal-Backend 
-> - job-portal-ui 
+> - backend 
+> - frontend
 
 ```
-cd job-portal-ui
+cd frontend
 
 npm install . --legacy-peer-deps
 
@@ -19,26 +19,6 @@ npm run dev
 1. create `jobportal` db/document
 2. create `sequence` collection/table
 3. click on `add data` -> import from json or csv file (similar to this)
-4. copy the below json
-
-``` json
-[{
-  "_id": "users",
-  "seq": 0
-},
-{
-  "_id": "profiles",
-  "seq": 0
-},
-{
-  "_id": "jobs",
-  "seq": 0
-},
-{
-  "_id": "notification",
-  "seq": 0
-}]
-
 ```
 
 **Please Note:**
