@@ -27,7 +27,11 @@ npm run dev
 
 Demo screenshot:
 
-dark mode:
-<img width="1891" height="1079" alt="Screenshot 2025-08-13 175710" src="https://github.com/user-attachments/assets/e609f060-5d73-44e0-be64-de5c716df6e6" />
+Light mode:
 
+![lighmode](./img/Screenshot_20250311_134256.png)
+
+dark mode:
+
+![darkmode](./img/darkScreenshot_20250311_134404.png)
 
