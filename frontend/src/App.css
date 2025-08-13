@@ -1,0 +1,24 @@
+@import "tailwindcss";
+.navlink, .active {
+    border-top: solid;
+    color: white;
+}
+
+@layer base{
+    ul,ol{
+        list-style: revert;
+        font-size: medium;
+    }
+    p{
+        font-size: medium;
+    }
+
+    li{
+        margin-left: 1em;
+    }
+}
+
+/* body {
+    background-color: var(--mantine-color-sepia-9);
+    color: var(--mantine-color-sepia-0);
+  } */
