@@ -36,22 +36,22 @@ npm run start
 
 ![Screenshot 1](./img/Screenshot%202025-08-13%20201822.png)
 
+**Sign Up:**
+
+![Screenshot 5](./img/Screenshot%202025-08-13%20202006.png)
+
 **Category of jobs:**
 
 ![Screenshot 2](./img/Screenshot%202025-08-13%20201842.png)
 
-**Post the Jobs as a Recruiter:**
+**Find the talents:**
 
 ![Screenshot 3](./img/Screenshot%202025-08-13%20201913.png)
 
-**Find the talents:**
+**Post the Jobs as a Recruiter:**
 
 ![Screenshot 4](./img/Screenshot%202025-08-13%20201930.png)
 
 **Overview of Submission your Requirements :**
 
 ![Screenshot 5](./img/Screenshot%202025-08-13%20201942.png)
-
-**Signup:**
-
-![Screenshot 5](./img/Screenshot%202025-08-13%20202006.png)
