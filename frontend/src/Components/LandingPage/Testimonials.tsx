@@ -8,7 +8,7 @@ const Testimonials = () => {
         <>
             <div className="text-5xl pt-8 pb-4 text-center font-bold capitalize [&>span]:text-blue-700">what <span>users</span> says about us?</div>
             <div className='text-lg text-center mx-auto w-1/2 pb-7'>Our platform keeps you updated with the latest job opportunities, industry trends, and skill-building resources.
-                Whether you're starting fresh or aiming higher, K-Kareer guides you every step of the way toward success.</div>
+                Whether you're starting fresh or aiming higher, Kareer-Grow guides you every step of the way toward success.</div>
 
 
             <div className="flex justify-evenly gap-3 px-2">

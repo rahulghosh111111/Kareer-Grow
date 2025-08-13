@@ -10,11 +10,11 @@ const Footer = () => {
                 <div className="w-1/4 p-2 gap-3">
                     <div className='flex gap-2 items-center text-blue-500'>
                         <IconDeviceLaptop className="h-5 w-5" stroke={2} />
-                        <div className='text-2xl font-semibold' >K-Kareer </div>
+                        <div className='text-2xl font-semibold' >Kareer-Grow </div>
                     </div>
                     <div className="text-sm">
                         Our platform keeps you updated with the latest job opportunities, industry trends, and skill-building resources.
-                        Whether you're starting fresh or aiming higher, K-Kareer guides you every step of the way toward success.                    </div>
+                        Whether you're starting fresh or aiming higher, Kareer-Grow guides you every step of the way toward success.                    </div>
                     <div className="flex mt-6 mb-6 [&>div]:text-black [&>div]:bg-blue-200 [&>div]:p-2 [&>div]:rounded-full [&>div]:cursor-pointer gap-2">
                         <div><IconBrandMeta /></div>
                         <div><IconBrandX /></div>

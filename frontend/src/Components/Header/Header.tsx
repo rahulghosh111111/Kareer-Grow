@@ -49,7 +49,7 @@ const Header = () => {
             <div className="w-full text-white bg-stone-900 h-20 flex px-6  justify-between items-center">
                 <div className='flex gap-2 items-center text-blue-500'>
                     <IconDeviceLaptop className="h-10 w-10" stroke={2} />
-                    <div className='text-3xl font-semibold' ><Link to="/">K-Kareer</Link></div>
+                    <div className='text-3xl font-semibold' ><Link to="/">Kareer-Grow</Link></div>
                 </div>
                 <NavLinks />
                 <div className='flex gap-2 items-center'>
